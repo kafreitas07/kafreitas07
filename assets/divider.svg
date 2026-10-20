@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" role="img" aria-label="">
+<defs>
+<linearGradient id="l" x1="0" x2="1200" y1="0" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7cc3f5" stop-opacity="0"/><stop offset=".5" stop-color="#7cc3f5" stop-opacity=".6"/><stop offset="1" stop-color="#7cc3f5" stop-opacity="0"/>
+</linearGradient>
+<filter id="g" x="-10%" y="-400%" width="120%" height="900%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.f{animation:f 9s steps(1,end) infinite}
+@keyframes f{0%{opacity:1}40%{opacity:.3}40.8%{opacity:1}68%{opacity:.2}68.6%{opacity:.9}69.4%{opacity:0}80%{opacity:.5}80.6%{opacity:0}82%{opacity:1}100%{opacity:1}}
+@media (prefers-reduced-motion:reduce){.f{animation:none}}
+</style>
+<line x1="200" y1="12" x2="1000" y2="12" stroke="#222831" stroke-width="1"/>
+<line class="f" x1="0" y1="12" x2="1200" y2="12" stroke="url(#l)" stroke-width="1.2" filter="url(#g)"/>
+</svg>
