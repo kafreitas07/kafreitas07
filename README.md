@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Estudante de **Engenharia de Software no INATEL** (8º período), focado em **desenvolvimento back-end e full stack** com JavaScript/TypeScript, Python e SQL. Gosto de entender o que acontece por baixo do código — de concorrência e escalonamento de processos a pipelines de CI/CD.
+Estudante de **Engenharia de Software no INATEL** (8º período), focado em **desenvolvimento back-end e full stack** com JavaScript/TypeScript, Python e SQL.
 
 - 🔭 Hoje estudo e construo projetos com **Node.js, React, Python e bancos de dados relacionais**
 - 🧑‍🏫 Instrutor voluntário de desenvolvimento web no projeto **cas@viva (INATEL)**, ensinando HTML, CSS e JavaScript para iniciantes
